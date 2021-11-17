@@ -1,1 +1,1 @@
-# m1_mini_project
+# M1_MiniProject_Game
