@@ -15,9 +15,9 @@ addition, subtraction, multiplication, and division
 3.Basic calculators can do addition, subtraction, multiplication, and division.
 
 
-# Defining our System:-
+# Defining Our System:-
 
-the project is based on the 
+the project is based on the operating basic arithmetic operations
 
 # SWOT ANALYSIS:-
 
