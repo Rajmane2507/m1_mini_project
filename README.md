@@ -1,1 +1,1 @@
-# M1_MiniProject_PhoneBook
+# M1_MiniProject_Scientific-Calculator
