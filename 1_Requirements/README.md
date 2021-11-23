@@ -14,6 +14,15 @@ addition, subtraction, multiplication, and division
 2.These functions are vital when you're working with scientific notation or any formula with a geometry component. 
 3.Basic calculators can do addition, subtraction, multiplication, and division.
 
+# RESEARCH:-
+
+The project will be a simple Scientific Calculator implementation in C. You will use various 
+calculations to calculate different mathematical operations. The output of the project will be a 
+console application without any graphics. You should implement at least following mathematical 
+operations.
+2D Matrix operations like Addition, Subtraction, Multiplication, Transpose.
+Solution of non-linear polynomial equations [ 2nd order only, 3
+rd order is optional ]
 
 # Defining Our System:-
 
