@@ -8,7 +8,7 @@ A Scientific Calculator is a calculator designed to help you calculate science, 
 It has way more buttons than your standard calculator that just lets you do your four basic arithmetic operations of 
 addition, subtraction, multiplication,division, modulus, power and factorial.
 
-# Objective:-
+# OBJECTIVES:-
 
 The main objectives of this project are listed as follows:
 
